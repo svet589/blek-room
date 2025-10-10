@@ -17,3 +17,5 @@ Algumas funcionalidades:
 * Confiável -- seguro para uso profissional
 * Seguro - pode ser usado até mesmo para mensagens de negócios
 * Completamente Open Source e baseado em Padrões
+
+# Update: 2025-10-10
